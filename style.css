@@ -1,0 +1,26 @@
+.h{
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px yellowgreen;
+    font-size:23px;
+}
+.y{
+    color:black;
+    font-size:15px;
+
+}
+#b{
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width:100%;
+    background-color: powderblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+border:5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px blue;
+margin-top: 50;
+}
